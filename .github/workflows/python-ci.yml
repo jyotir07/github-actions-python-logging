@@ -21,4 +21,4 @@ jobs:
         subject: "Python CI Failed"
         to: your_email@example.com
         from: GitHub Actions
-        body: "The Python CI workflow failed. View logs at: ${{ github.event.workflow_run.html_url }}"
+        body: "The Python CI workflow failed lol. View logs at: ${{ github.event.workflow_run.html_url }}"
